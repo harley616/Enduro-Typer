@@ -6,7 +6,7 @@ export default function Home(){
       <h1>Welcome to Enduro Typer!</h1>
       <div>
         <h2>You can login if you want to track your scores</h2>
-        <Link href="login">Login</Link>
+        <Link href="login">Login </Link>
       </div>
       <Link href="game">Play</Link>
         
